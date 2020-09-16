@@ -8,7 +8,7 @@
   Simple game for 2 players (split screen) Written on Vanilla Javascript.
 </p>
 
-[LIVE]()
+[LIVE](https://dvlnitins.github.io/ThePigGame)
 
 ## 🚀 The Pig Game (Greedy Pig) RULES
 
